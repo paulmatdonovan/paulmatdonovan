@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulmatdonovan
 - 👀 I’m interested in video games and politics
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking for a part time web development job, preferably one where I can work from home. 
 - 📫 How to reach me: 
   
 - ⚡ Fun fact: I live far far away
